@@ -1,0 +1,11 @@
+@media (max-width: 575px) {
+  #contain {
+    padding: 0px;
+    background-color: gray !important;
+  }
+  #form {
+    margin-left: 0px !important;
+    height: 100vh !important;
+    border-radius: 0px !important;
+  }
+}
